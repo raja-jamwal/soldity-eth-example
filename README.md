@@ -1,2 +1,2 @@
-## Example code for writing Decentrailised Contract on Ethereum using solidity
+## Example code for writing Decentralized Contract on Ethereum using solidity
 
